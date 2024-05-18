@@ -8,7 +8,7 @@ An EXTREMELY simple, easy to use Key-Value database for the frontend.
 Simply link the script in your site, and that's about it for setup.
 
 ```html
-<script src="https://cdn.link"></script>
+<script src="https://cdn.jsdelivr.net/gh/DoxrGitHub/clientDB@main/client.js"></script>
 ```
 
 ## Quick Docs
