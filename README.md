@@ -3,6 +3,8 @@
 An EXTREMELY simple, easy to use Key-Value database for the frontend.
 
 > clientDB uses localStorage to store info. While this will persist after page loads (obviously), clearing browser data will delete the database. All methods are promises.
+>
+> There is a [Node.js version](https://github.com/DoxrGitHub/nodeDB) of clientDB.
 
 ## Initialization
 Simply link the script in your site, and that's about it for setup.
